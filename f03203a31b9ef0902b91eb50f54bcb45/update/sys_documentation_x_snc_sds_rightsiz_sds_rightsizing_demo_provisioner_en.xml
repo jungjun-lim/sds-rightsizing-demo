@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="provisioner" label="Provisioner" language="en" table="x_snc_sds_rightsiz_sds_rightsizing_demo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>provisioner</element>
+            <help/>
+            <hint/>
+            <label>Provisioner</label>
+            <language>en</language>
+            <name>x_snc_sds_rightsiz_sds_rightsizing_demo</name>
+            <plural>Provisioners</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-09 08:58:41</sys_created_on>
+            <sys_id>720af2a41bea3c90aea364efe54bcbca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Provisioner</sys_name>
+            <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_sds_rightsiz_sds_rightsizing_demo_provisioner_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-09 08:58:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

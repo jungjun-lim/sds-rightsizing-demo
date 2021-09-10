@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="sds rightsizing demo" max_length="40" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sizeclass="4" type="collection">
+        <element label="Monthly Cost Saving Actual" max_length="38" name="cost_saving_actual" type="currency"/>
+        <element label="Monthly Cost Saving Expected" max_length="38" name="cost_saving_expected" type="currency"/>
+        <element label="Current Size" max_length="40" name="current_size" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Provider" mandatory="true" max_length="40" name="provider" type="choice">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="GCP" sequence="0" value="4"/>
+                <element inactive_on_update="false" label="VMware" sequence="0" value="0"/>
+                <element inactive="true" inactive_on_update="true" label="Azure" sequence="1" value="3"/>
+                <element inactive_on_update="false" label="Terraform Enterprise" sequence="1" value="1"/>
+                <element inactive="true" inactive_on_update="true" label="AWS" sequence="2" value="2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="aws" label="Provisioner" max_length="40" name="provisioner" type="string">
+            <choice>
+                <element inactive_on_update="false" label="VMware" sequence="0" value="vmware"/>
+                <element inactive_on_update="false" label="AWS" sequence="1" value="aws"/>
+                <element inactive_on_update="false" label="Azure" sequence="2" value="azure"/>
+                <element inactive_on_update="false" label="GCP" sequence="3" value="gcp"/>
+            </choice>
+        </element>
+        <element label="Recommended Size" max_length="40" name="recommended_size" type="string"/>
+        <element label="RightSizing When" max_length="40" name="rightsizing_when" type="glide_date_time"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Assessing" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Open" sequence="0" value="0"/>
+                <element inactive="true" inactive_on_update="true" label="Approved" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Ended" sequence="1" value="20"/>
+                <element inactive="true" inactive_on_update="true" label="Suggested" sequence="2" value="3"/>
+                <element inactive="true" inactive_on_update="true" label="Resizing Scheduled" sequence="3" value="4"/>
+                <element inactive="true" inactive_on_update="true" label="Resized" sequence="4" value="5"/>
+                <element inactive="true" inactive_on_update="true" label="Rejected" sequence="5" value="100"/>
+            </choice>
+        </element>
+        <element label="UUID" max_length="40" name="uuid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="VM name" max_length="40" name="vm_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="chg_model">
+    <chg_model action="DELETE">
+        <active>true</active>
+        <available_in_ui>true</available_in_ui>
+        <color>#cbcbcb</color>
+        <default_change_model>false</default_change_model>
+        <description>Change Model specialized for rightsizing change type.</description>
+        <name>Rightsizing</name>
+        <record_preset>type=standard^assigned_to=acf217ab1b1234902b91eb50f54bcb94^category=Cloud Management^urgency=2^impact=1^risk=3^state=-5^EQ</record_preset>
+        <state_field>state</state_field>
+        <sys_class_name>chg_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-09 10:04:48</sys_created_on>
+        <sys_id>8d0907a41bee3c90aea364efe54bcbc1</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Rightsizing</sys_name>
+        <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+        <sys_update_name>chg_model_8d0907a41bee3c90aea364efe54bcbc1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-09 12:51:56</sys_updated_on>
+        <table_name>change_request</table_name>
+    </chg_model>
+    <sys_translated_text action="DELETE" query="documentkey=8d0907a41bee3c90aea364efe54bcbc1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</application>
+        <file_path/>
+        <instance_id>450284311bbb2c1032182f8dee4bcb9c</instance_id>
+        <instance_name>jjlimdemoq02</instance_name>
+        <name>chg_model_8d0907a41bee3c90aea364efe54bcbc1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="chg_model"><chg_model action="INSERT_OR_UPDATE"><active>true</active><available_in_ui>true</available_in_ui><color>#cbcbcb</color><default_change_model>false</default_change_model><description>Change Model specialized for rightsizing change type.</description><name>Rightsizing</name><record_preset>type=standard^assigned_to=acf217ab1b1234902b91eb50f54bcb94^category=Cloud Management^urgency=2^impact=1^risk=3^state=-5^EQ</record_preset><state_field>state</state_field><sys_class_name>chg_model</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-09 10:04:48</sys_created_on><sys_id>8d0907a41bee3c90aea364efe54bcbc1</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Rightsizing</sys_name><sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package><sys_policy/><sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope><sys_update_name>chg_model_8d0907a41bee3c90aea364efe54bcbc1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-09 12:51:56</sys_updated_on><table_name>change_request</table_name></chg_model><sys_translated_text action="delete_multiple" query="documentkey=8d0907a41bee3c90aea364efe54bcbc1"/></record_update>]]></payload>
+        <payload_hash>1399000972</payload_hash>
+        <record_name>Rightsizing</record_name>
+        <reverted_from/>
+        <source>953bc4f11b772010aea364efe54bcb63</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-09 12:51:56</sys_created_on>
+        <sys_id>d76f6fa01b267c90aea364efe54bcb04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bca9d5ed40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-09 12:51:56</sys_updated_on>
+        <type>Change Model</type>
+        <update_guid>df6f6fa0e2267c90e344046494a50403</update_guid>
+        <update_guid_history>df6f6fa0e2267c90e344046494a50403:1399000972,670e67ace1e27c906b445492cb39ee22:-743164869,6cbcab6c91e27c906fc1d08c98c848fe:-454978261,97290f6470ee3c9017a967c145d426a9:2084540026</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Rightsizing">e694bf2c1b267c90aea364efe54bcb51</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-09 13:14:32</sys_created_on>
+        <sys_db_object display_value="" name="chg_model">chg_model</sys_db_object>
+        <sys_id>2e7e8b7e8b954149a4e261c00b0cced9</sys_id>
+        <sys_metadata>8d0907a41bee3c90aea364efe54bcbc1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rightsizing</sys_name>
+        <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+        <sys_scope_delete display_value="">5613847f5602496d92d0b20bd20a3e31</sys_scope_delete>
+        <sys_update_name>chg_model_8d0907a41bee3c90aea364efe54bcbc1</sys_update_name>
+        <sys_update_version display_value="chg_model_8d0907a41bee3c90aea364efe54bcbc1">d76f6fa01b267c90aea364efe54bcb04</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-09 13:14:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

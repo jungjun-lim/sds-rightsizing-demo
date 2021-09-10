@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="rightsizing_when" label="RightSizing When" language="en" table="x_snc_sds_rightsiz_sds_rightsizing_demo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>rightsizing_when</element>
+            <help/>
+            <hint/>
+            <label>RightSizing When</label>
+            <language>en</language>
+            <name>x_snc_sds_rightsiz_sds_rightsizing_demo</name>
+            <plural>RightSizing Whens</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-06 07:10:23</sys_created_on>
+            <sys_id>cb7483231bdef0902b91eb50f54bcb42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>RightSizing When</sys_name>
+            <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_sds_rightsiz_sds_rightsizing_demo_rightsizing_when_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-06 07:10:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

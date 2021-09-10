@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="provisioner" table="x_snc_sds_rightsiz_sds_rightsizing_demo" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>provisioner</element>
+            <name>x_snc_sds_rightsiz_sds_rightsizing_demo</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-09 09:00:38</sys_created_on>
+            <sys_id>df7a76681bea3c90aea364efe54bcb8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>provisioner</sys_name>
+            <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+            <sys_update_name>sys_choice_x_snc_sds_rightsiz_sds_rightsizing_demo_provisioner</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-09 09:00:38</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>provisioner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VMware</label>
+            <language>en</language>
+            <name>x_snc_sds_rightsiz_sds_rightsizing_demo</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-09 09:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>137a36681bea3c90aea364efe54bcbf9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-09 09:00:38</sys_updated_on>
+            <value>vmware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>provisioner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AWS</label>
+            <language>en</language>
+            <name>x_snc_sds_rightsiz_sds_rightsizing_demo</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-09 09:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d77a76681bea3c90aea364efe54bcb90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-09 09:00:38</sys_updated_on>
+            <value>aws</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>provisioner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Azure</label>
+            <language>en</language>
+            <name>x_snc_sds_rightsiz_sds_rightsizing_demo</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-09 09:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b7a76681bea3c90aea364efe54bcb91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-09 09:00:38</sys_updated_on>
+            <value>azure</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>provisioner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GCP</label>
+            <language>en</language>
+            <name>x_snc_sds_rightsiz_sds_rightsizing_demo</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-09 09:00:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db7a76681bea3c90aea364efe54bcb92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-09 09:00:39</sys_updated_on>
+            <value>gcp</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
