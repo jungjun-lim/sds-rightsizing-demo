@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Terraform_View</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-13 02:00:04</sys_created_on>
+        <sys_id>e5900ab5db6af4d0631f004dd396192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Terraform View</sys_name>
+        <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+        <sys_update_name>sys_ui_view_e5900ab5db6af4d0631f004dd396192e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-13 02:00:04</sys_updated_on>
+        <title>Terraform View</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</application>
+        <file_path/>
+        <instance_id>03fdaa83db7fa410f37acac505961960</instance_id>
+        <instance_name>jjlimdemoqu01</instance_name>
+        <name>sys_ui_view_e5900ab5db6af4d0631f004dd396192e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>Terraform_View</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 02:00:04</sys_created_on><sys_id>e5900ab5db6af4d0631f004dd396192e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Terraform View</sys_name><sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package><sys_policy/><sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope><sys_update_name>sys_ui_view_e5900ab5db6af4d0631f004dd396192e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 02:00:04</sys_updated_on><title>Terraform View</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>465775569</payload_hash>
+        <record_name>Terraform View</record_name>
+        <reverted_from/>
+        <source>1ac74f34db6230d0631f004dd396198d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-13 02:00:04</sys_created_on>
+        <sys_id>ed900ab5db6af4d0631f004dd3961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bdce201940000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-13 02:00:04</sys_updated_on>
+        <type>UI 뷰</type>
+        <update_guid>a5900ab5dd6af4d0dfa3de74e1e0b730</update_guid>
+        <update_guid_history>a5900ab5dd6af4d0dfa3de74e1e0b730:465775569</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-13 02:08:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>d5e0422d163e4896909b433dd2850024</sys_id>
+        <sys_metadata>e5900ab5db6af4d0631f004dd396192e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Terraform View</sys_name>
+        <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+        <sys_scope_delete display_value="">5613847f5602496d92d0b20bd20a3e31</sys_scope_delete>
+        <sys_update_name>sys_ui_view_e5900ab5db6af4d0631f004dd396192e</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_e5900ab5db6af4d0631f004dd396192e">ed900ab5db6af4d0631f004dd3961930</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-13 02:08:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

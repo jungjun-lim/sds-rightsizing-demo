@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="chg_model">
+    <chg_model action="DELETE">
+        <active>false</active>
+        <available_in_ui>true</available_in_ui>
+        <color>#cbcbcb</color>
+        <default_change_model>false</default_change_model>
+        <description>SDS righsizing</description>
+        <name>SDS rightsizing</name>
+        <record_preset>type=normal^EQ</record_preset>
+        <state_field>state</state_field>
+        <sys_class_name>chg_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-10 05:10:25</sys_created_on>
+        <sys_id>a45f83b4dba230d0631f004dd39619f7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SDS rightsizing</sys_name>
+        <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+        <sys_update_name>chg_model_a45f83b4dba230d0631f004dd39619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-10 05:13:33</sys_updated_on>
+        <table_name>change_request</table_name>
+    </chg_model>
+    <sys_translated_text action="DELETE" query="documentkey=a45f83b4dba230d0631f004dd39619f7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</application>
+        <file_path/>
+        <instance_id>03fdaa83db7fa410f37acac505961960</instance_id>
+        <instance_name>jjlimdemoqu01</instance_name>
+        <name>chg_model_a45f83b4dba230d0631f004dd39619f7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="chg_model"><chg_model action="INSERT_OR_UPDATE"><active>false</active><available_in_ui>true</available_in_ui><color>#cbcbcb</color><default_change_model>false</default_change_model><description>SDS righsizing</description><name>SDS rightsizing</name><record_preset>type=normal^EQ</record_preset><state_field>state</state_field><sys_class_name>chg_model</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-10 05:10:25</sys_created_on><sys_id>a45f83b4dba230d0631f004dd39619f7</sys_id><sys_mod_count>1</sys_mod_count><sys_name>SDS rightsizing</sys_name><sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package><sys_policy/><sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope><sys_update_name>chg_model_a45f83b4dba230d0631f004dd39619f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-10 05:13:33</sys_updated_on><table_name>change_request</table_name></chg_model><sys_translated_text action="delete_multiple" query="documentkey=a45f83b4dba230d0631f004dd39619f7"/></record_update>]]></payload>
+        <payload_hash>2095643743</payload_hash>
+        <record_name>SDS rightsizing</record_name>
+        <reverted_from/>
+        <source>1ac74f34db6230d0631f004dd396198d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-10 05:13:33</sys_created_on>
+        <sys_id>ee101bf4dba230d0631f004dd3961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bce20111f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-10 05:13:33</sys_updated_on>
+        <type>Change Model</type>
+        <update_guid>a2101bf430a230d0fa04cd2b6e4f8f39</update_guid>
+        <update_guid_history>a2101bf430a230d0fa04cd2b6e4f8f39:2095643743,f06f83b491a230d01e217d12d63d7d1c:-2042829271</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="SDS rightsizing">eb119f78dba230d0631f004dd3961945</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-10 05:17:59</sys_created_on>
+        <sys_db_object display_value="" name="chg_model">chg_model</sys_db_object>
+        <sys_id>3140764426344044942c35573578b0e9</sys_id>
+        <sys_metadata>a45f83b4dba230d0631f004dd39619f7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SDS rightsizing</sys_name>
+        <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+        <sys_scope_delete display_value="">5613847f5602496d92d0b20bd20a3e31</sys_scope_delete>
+        <sys_update_name>chg_model_a45f83b4dba230d0631f004dd39619f7</sys_update_name>
+        <sys_update_version display_value="chg_model_a45f83b4dba230d0631f004dd39619f7">ee101bf4dba230d0631f004dd3961939</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-10 05:17:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

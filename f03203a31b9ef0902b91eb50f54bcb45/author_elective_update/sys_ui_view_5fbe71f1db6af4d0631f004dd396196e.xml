@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>VMware_View</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-13 01:52:00</sys_created_on>
+        <sys_id>5fbe71f1db6af4d0631f004dd396196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VMware View</sys_name>
+        <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+        <sys_update_name>sys_ui_view_5fbe71f1db6af4d0631f004dd396196e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-13 01:52:00</sys_updated_on>
+        <title>VMware View</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</application>
+        <file_path/>
+        <instance_id>03fdaa83db7fa410f37acac505961960</instance_id>
+        <instance_name>jjlimdemoqu01</instance_name>
+        <name>sys_ui_view_5fbe71f1db6af4d0631f004dd396196e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>VMware_View</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 01:52:00</sys_created_on><sys_id>5fbe71f1db6af4d0631f004dd396196e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>VMware View</sys_name><sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package><sys_policy/><sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope><sys_update_name>sys_ui_view_5fbe71f1db6af4d0631f004dd396196e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 01:52:00</sys_updated_on><title>VMware View</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-2021036615</payload_hash>
+        <record_name>VMware View</record_name>
+        <reverted_from/>
+        <source>1ac74f34db6230d0631f004dd396198d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-13 01:52:00</sys_created_on>
+        <sys_id>1bbe71f1db6af4d0631f004dd3961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bdcda9f700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-13 01:52:00</sys_updated_on>
+        <type>UI 뷰</type>
+        <update_guid>dfbe71f18b6af4d0b38c34200395d370</update_guid>
+        <update_guid_history>dfbe71f18b6af4d0b38c34200395d370:-2021036615</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-13 02:08:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>b05b57a8dca348c89a0e2f6dc4b99124</sys_id>
+        <sys_metadata>5fbe71f1db6af4d0631f004dd396196e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VMware View</sys_name>
+        <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+        <sys_scope_delete display_value="">5613847f5602496d92d0b20bd20a3e31</sys_scope_delete>
+        <sys_update_name>sys_ui_view_5fbe71f1db6af4d0631f004dd396196e</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_5fbe71f1db6af4d0631f004dd396196e">1bbe71f1db6af4d0631f004dd3961971</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-13 02:08:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

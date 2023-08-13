@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="VM 정보" section_id="a7be71f1db6af4d0631f004dd39619fe" sys_domain="global" table="x_snc_sds_rightsiz_sds_rightsizing_demo" version="3" view="VMware_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vm_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 01:52:01</sys_created_on>
+            <sys_id>ebbeb1f1db6af4d0631f004dd396191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 01:52:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>uuid</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 01:52:01</sys_created_on>
+            <sys_id>63beb1f1db6af4d0631f004dd396191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 01:52:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 01:52:01</sys_created_on>
+            <sys_id>e7beb1f1db6af4d0631f004dd396191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 01:52:01</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>current_size</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 01:52:01</sys_created_on>
+            <sys_id>6fbeb1f1db6af4d0631f004dd396191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 01:52:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>recommended_size</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 01:52:01</sys_created_on>
+            <sys_id>e3beb1f1db6af4d0631f004dd396191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 01:52:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost_saving_expected</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 01:52:01</sys_created_on>
+            <sys_id>6bbeb1f1db6af4d0631f004dd396191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 01:52:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost_saving_actual</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 01:52:01</sys_created_on>
+            <sys_id>efbeb1f1db6af4d0631f004dd396191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 01:52:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>VM 정보</caption>
+            <header>false</header>
+            <name>x_snc_sds_rightsiz_sds_rightsizing_demo</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 01:52:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7be71f1db6af4d0631f004dd39619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_sds_rightsiz_sds_rightsizing_demo</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+            <sys_update_name>sys_ui_section_a7be71f1db6af4d0631f004dd39619fe</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 01:52:00</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="VMware View" name="VMware_View">5fbe71f1db6af4d0631f004dd396196e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</application>
+        <file_path/>
+        <instance_id>03fdaa83db7fa410f37acac505961960</instance_id>
+        <instance_name>jjlimdemoqu01</instance_name>
+        <name>sys_ui_section_a7be71f1db6af4d0631f004dd39619fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="VM 정보" section_id="a7be71f1db6af4d0631f004dd39619fe" sys_domain="global" table="x_snc_sds_rightsiz_sds_rightsizing_demo" version="3" view="VMware_View"><sys_ui_element action="INSERT_OR_UPDATE"><element>vm_name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 01:52:01</sys_created_on><sys_id>ebbeb1f1db6af4d0631f004dd396191c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 01:52:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>uuid</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 01:52:01</sys_created_on><sys_id>63beb1f1db6af4d0631f004dd396191d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 01:52:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 01:52:01</sys_created_on><sys_id>e7beb1f1db6af4d0631f004dd396191d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 01:52:01</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>current_size</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 01:52:01</sys_created_on><sys_id>6fbeb1f1db6af4d0631f004dd396191d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 01:52:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>recommended_size</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 01:52:01</sys_created_on><sys_id>e3beb1f1db6af4d0631f004dd396191e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 01:52:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cost_saving_expected</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 01:52:01</sys_created_on><sys_id>6bbeb1f1db6af4d0631f004dd396191e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 01:52:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cost_saving_actual</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 01:52:01</sys_created_on><sys_id>efbeb1f1db6af4d0631f004dd396191e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="5fbe71f1db6af4d0631f004dd396196e">a7be71f1db6af4d0631f004dd39619fe</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 01:52:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>VM 정보</caption><header>false</header><name>x_snc_sds_rightsiz_sds_rightsizing_demo</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 01:52:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a7be71f1db6af4d0631f004dd39619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_sds_rightsiz_sds_rightsizing_demo</sys_name><sys_overrides/><sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package><sys_policy/><sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope><sys_update_name>sys_ui_section_a7be71f1db6af4d0631f004dd39619fe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 01:52:00</sys_updated_on><sys_user/><title>false</title><view display_value="VMware View" name="VMware_View">5fbe71f1db6af4d0631f004dd396196e</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>984143068</payload_hash>
+        <record_name>sds rightsizing demo</record_name>
+        <reverted_from/>
+        <source>1ac74f34db6230d0631f004dd396198d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-13 01:52:01</sys_created_on>
+        <sys_id>63beb1f1db6af4d0631f004dd3961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bdcdaa22e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-13 01:52:01</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>ebbeb1f10f6af4d096fa412eccfb0a20</update_guid>
+        <update_guid_history>ebbeb1f10f6af4d096fa412eccfb0a20:984143068</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-13 02:08:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>94d4b4a668564734a75f2d7846f1e369</sys_id>
+        <sys_metadata>a7be71f1db6af4d0631f004dd39619fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VM 정보</sys_name>
+        <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+        <sys_parent display_value="sds rightsizing demo">08c5c730db6230d0631f004dd396194b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+        <sys_scope_delete display_value="">5613847f5602496d92d0b20bd20a3e31</sys_scope_delete>
+        <sys_update_name>sys_ui_section_a7be71f1db6af4d0631f004dd39619fe</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_a7be71f1db6af4d0631f004dd39619fe">63beb1f1db6af4d0631f004dd3961921</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-13 02:08:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

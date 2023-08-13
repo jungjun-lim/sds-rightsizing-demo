@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="65900ab5db6af4d0631f004dd3961974" sys_domain="global" table="x_snc_sds_rightsiz_sds_rightsizing_demo" version="3">
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_sds_rightsiz_sds_rightsizing_demo</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 02:00:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65900ab5db6af4d0631f004dd3961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_sds_rightsiz_sds_rightsizing_demo</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+            <sys_update_name>sys_ui_form_sections_65900ab5db6af4d0631f004dd3961974</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 02:00:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="">e5900ab5db6af4d0631f004dd396192e</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</application>
+        <file_path/>
+        <instance_id>03fdaa83db7fa410f37acac505961960</instance_id>
+        <instance_name>jjlimdemoqu01</instance_name>
+        <name>sys_ui_form_sections_65900ab5db6af4d0631f004dd3961974</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="65900ab5db6af4d0631f004dd3961974" sys_domain="global" table="x_snc_sds_rightsiz_sds_rightsizing_demo" version="3"><sys_ui_form action="INSERT_OR_UPDATE"><name>x_snc_sds_rightsiz_sds_rightsizing_demo</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 02:00:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>65900ab5db6af4d0631f004dd3961974</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_sds_rightsiz_sds_rightsizing_demo</sys_name><sys_overrides/><sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package><sys_policy/><sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope><sys_update_name>sys_ui_form_sections_65900ab5db6af4d0631f004dd3961974</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 02:00:04</sys_updated_on><sys_user/><view display_value="">e5900ab5db6af4d0631f004dd396192e</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>933277931</payload_hash>
+        <record_name>sds rightsizing demo</record_name>
+        <reverted_from/>
+        <source>1ac74f34db6230d0631f004dd396198d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-13 02:08:40</sys_created_on>
+        <sys_id>a782cab9db6af4d0631f004dd3961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bdce9e1cb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-13 02:08:40</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>eb82cab93a6af4d00d2b4ba4c4a64133</update_guid>
+        <update_guid_history>eb82cab93a6af4d00d2b4ba4c4a64133:933277931,6f82cab9bc6af4d0018b23691868de23:529212472,ef82cab9fa6af4d0c78c559493810908:1943312184,29900ab50e6af4d0cff74edd437edd7d:177409040,e5900ab5666af4d06a807606d43e3079:20956007,a9900ab5ce6af4d0738159b5f13a5275:-250855526</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-13 02:08:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>17e2e4dc758949a6ae10a209f5b143f9</sys_id>
+        <sys_metadata>65900ab5db6af4d0631f004dd3961974</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_sds_rightsiz_sds_rightsizing_demo</sys_name>
+        <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+        <sys_parent display_value="sds rightsizing demo">08c5c730db6230d0631f004dd396194b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+        <sys_scope_delete display_value="">5613847f5602496d92d0b20bd20a3e31</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_65900ab5db6af4d0631f004dd3961974</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_65900ab5db6af4d0631f004dd3961974">a782cab9db6af4d0631f004dd3961934</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-13 02:08:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

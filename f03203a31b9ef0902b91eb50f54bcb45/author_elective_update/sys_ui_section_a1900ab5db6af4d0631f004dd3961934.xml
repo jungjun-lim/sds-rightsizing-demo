@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Terraform Environment" section_id="a1900ab5db6af4d0631f004dd3961934" sys_domain="global" table="x_snc_sds_rightsiz_sds_rightsizing_demo" version="3" view="Terraform_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sds_terra_workspace</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 02:00:06</sys_created_on>
+            <sys_id>82900ab5db6af4d0631f004dd39619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Terraform Environment" display_value="Terraform Environment" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="e5900ab5db6af4d0631f004dd396192e">a1900ab5db6af4d0631f004dd3961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 02:00:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sds_terra_workspace_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 02:00:06</sys_created_on>
+            <sys_id>0a900ab5db6af4d0631f004dd39619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Terraform Environment" display_value="Terraform Environment" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="e5900ab5db6af4d0631f004dd396192e">a1900ab5db6af4d0631f004dd3961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 02:00:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Terraform Environment</caption>
+            <header>false</header>
+            <name>x_snc_sds_rightsiz_sds_rightsizing_demo</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 02:00:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1900ab5db6af4d0631f004dd3961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_sds_rightsiz_sds_rightsizing_demo</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+            <sys_update_name>sys_ui_section_a1900ab5db6af4d0631f004dd3961934</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 02:00:04</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Terraform View" name="Terraform_View">e5900ab5db6af4d0631f004dd396192e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</application>
+        <file_path/>
+        <instance_id>03fdaa83db7fa410f37acac505961960</instance_id>
+        <instance_name>jjlimdemoqu01</instance_name>
+        <name>sys_ui_section_a1900ab5db6af4d0631f004dd3961934</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Terraform Environment" section_id="a1900ab5db6af4d0631f004dd3961934" sys_domain="global" table="x_snc_sds_rightsiz_sds_rightsizing_demo" version="3" view="Terraform_View"><sys_ui_element action="INSERT_OR_UPDATE"><element>u_sds_terra_workspace</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 02:00:06</sys_created_on><sys_id>82900ab5db6af4d0631f004dd39619d3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Terraform Environment" display_value="Terraform Environment" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="e5900ab5db6af4d0631f004dd396192e">a1900ab5db6af4d0631f004dd3961934</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 02:00:06</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_sds_terra_workspace_id</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 02:00:06</sys_created_on><sys_id>0a900ab5db6af4d0631f004dd39619d3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Terraform Environment" display_value="Terraform Environment" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="e5900ab5db6af4d0631f004dd396192e">a1900ab5db6af4d0631f004dd3961934</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 02:00:06</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Terraform Environment</caption><header>false</header><name>x_snc_sds_rightsiz_sds_rightsizing_demo</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-13 02:00:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a1900ab5db6af4d0631f004dd3961934</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_sds_rightsiz_sds_rightsizing_demo</sys_name><sys_overrides/><sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package><sys_policy/><sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope><sys_update_name>sys_ui_section_a1900ab5db6af4d0631f004dd3961934</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-13 02:00:04</sys_updated_on><sys_user/><title>false</title><view display_value="Terraform View" name="Terraform_View">e5900ab5db6af4d0631f004dd396192e</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1115168348</payload_hash>
+        <record_name>sds rightsizing demo</record_name>
+        <reverted_from/>
+        <source>1ac74f34db6230d0631f004dd396198d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-13 02:00:06</sys_created_on>
+        <sys_id>46900ab5db6af4d0631f004dd39619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bdce209410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-13 02:00:06</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>ce900ab55f6af4d0e93f391aee06d2d4</update_guid>
+        <update_guid_history>ce900ab55f6af4d0e93f391aee06d2d4:1115168348</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-13 02:08:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>28fa4ca714de4e6a8ea9ec29bb8080c1</sys_id>
+        <sys_metadata>a1900ab5db6af4d0631f004dd3961934</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Terraform Environment</sys_name>
+        <sys_package display_value="SDS rightsizing demo" source="x_snc_sds_rightsiz">f03203a31b9ef0902b91eb50f54bcb45</sys_package>
+        <sys_parent display_value="sds rightsizing demo">08c5c730db6230d0631f004dd396194b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SDS rightsizing demo">f03203a31b9ef0902b91eb50f54bcb45</sys_scope>
+        <sys_scope_delete display_value="">5613847f5602496d92d0b20bd20a3e31</sys_scope_delete>
+        <sys_update_name>sys_ui_section_a1900ab5db6af4d0631f004dd3961934</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_a1900ab5db6af4d0631f004dd3961934">46900ab5db6af4d0631f004dd39619d5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-13 02:08:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

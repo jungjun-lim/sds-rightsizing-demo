@@ -17,16 +17,44 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 01:44:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7ecf5fddb2af4d0631f004dd39619b4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sds_rightsiz_sds_rightsizing_demo" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="Default view">0d2bfa2c1bea3c90aea364efe54bcb5b</sys_ui_form>
+            <sys_ui_section caption="VMware Environment" display_value="VMware Environment" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="Default view">dfecf5fddb2af4d0631f004dd3961964</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 01:44:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-13 02:11:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b13caf9db6af4d0631f004dd39619a6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sds_rightsiz_sds_rightsizing_demo" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="Default view">0d2bfa2c1bea3c90aea364efe54bcb5b</sys_ui_form>
+            <sys_ui_section caption="Terraform Environment" display_value="Terraform Environment" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="Default view">0f13caf9db6af4d0631f004dd39619a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-13 02:11:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-09-09 09:03:29</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>8d2bfa2c1bea3c90aea364efe54bcb5f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_snc_sds_rightsiz_sds_rightsizing_demo" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="Default view">0d2bfa2c1bea3c90aea364efe54bcb5b</sys_ui_form>
             <sys_ui_section caption="VM 정보" display_value="VM 정보" name="x_snc_sds_rightsiz_sds_rightsizing_demo" sys_domain="global" view="Default view">092bfa2c1bea3c90aea364efe54bcb59</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-09-09 09:03:29</sys_updated_on>
+            <sys_updated_on>2021-09-13 02:11:05</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_snc_sds_rightsiz_sds_rightsizing_demo</name>
